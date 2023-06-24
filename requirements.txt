@@ -4,6 +4,3 @@ pandas
 tqdm
 matplotlib
 keras 
-scikit-learn
-sklearn
-tensorflow
