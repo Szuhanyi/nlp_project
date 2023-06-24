@@ -1,1 +1,6 @@
 venv
+*.txt
+*.csv
+*.pkl
+!./input/metacritic_with_actual_usercomments/metacritic_with_actual_usercomments_original.zip
+!./input/metacritic_with_actual_usercomments/metacritic_with_actual_usercomments_processed.zip
